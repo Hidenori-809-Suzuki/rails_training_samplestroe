@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number: MyString
+  occured_at: 2023-01-24 04:00:12
+  payment: 1
+  payment_stat: false
+  user: one
+
+two:
+  number: MyString
+  occured_at: 2023-01-24 04:00:12
+  payment: 1
+  payment_stat: false
+  user: two
